@@ -6,6 +6,7 @@ namespace GithubActionsLab
     [TestFixture]
     public class Math
     {
+        //Test addition
         [Test]
         public void Add_Valid()
         {
